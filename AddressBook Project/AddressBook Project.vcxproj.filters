@@ -23,5 +23,8 @@
     <ClInclude Include="addressType.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="dateType.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
